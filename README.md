@@ -1,1 +1,1 @@
-# small_projects
+Tiny projects folder
