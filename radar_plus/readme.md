@@ -9,6 +9,6 @@
 
 -Show the notification on the dashboard (in login mode) with following info:
 
--Stock name
--The news (Use first 4 lines and subject line + link to the news)
--How many % the stock is up from the news came (update the realtime price)
+1) Stock name
+2) The news (Use first 4 lines and subject line + link to the news)
+3) How many % the stock is up from the news came (update the realtime price)
